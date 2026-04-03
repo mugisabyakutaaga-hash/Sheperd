@@ -1,5 +1,5 @@
 {
   "name": "Shepherd Chat",
   "description": "A scripture-based AI companion for digital well-being and mental health support.",
-  "requestFramePermissions": []
+  "requestFramePermissions": ["microphone"]
 }
